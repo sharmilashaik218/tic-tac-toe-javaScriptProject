@@ -47,3 +47,8 @@ To run the Tic Tac Toe game locally:
    ```bash
    git clone https://github.com/sharmilashaik218/tic-tac-toe-javaScript.git
 
+
+![Screenshot 1](https://github.com/sharmilashaik218/tic-tac-toe-javaScriptProject/blob/main/Screenshot%202025-01-29%20063204.png)
+![Screenshot 2](https://github.com/sharmilashaik218/tic-tac-toe-javaScriptProject/blob/main/Screenshot%202025-01-29%20063246.png)
+
+
